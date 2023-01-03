@@ -7,6 +7,6 @@ module.exports = {
     host: '127.0.0.1',
     user: 'postgres',
     password: 'postgres',
-    database: 'api_company_postgres'
+    database: 'postgres'
   }
 }
